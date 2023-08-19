@@ -7,7 +7,7 @@ This is the optional variable gates sidecar for the bounce sequencer & the minib
 Calibration is as follows: 
 
 - The trimmer labeled LED-V sets the LED brightness.
-- The labeled 8V should be set initially to 8 volts. Once you've done that, connect everything up, center the CV pot at the bottom left (I use one with a center detent), and slide all the sliders far left. Then, either watching the output with a fast oscilloscope, or (better) using this module to drive a fast envelope, adjust the 8V trimmer CCW until you don't see/hear any gates firing. 
+- The trimmer labeled 8V should be set initially to 8 volts. Once you've done that, connect everything up, center the CV pot at the bottom left (I use one with a center detent), and slide all the sliders far left. Then, either watching the output with a fast oscilloscope, or (better) using this module to drive a fast envelope, adjust the 8V trimmer CCW until you don't see/hear any gates firing. 
 
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
 
